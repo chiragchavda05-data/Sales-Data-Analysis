@@ -25,6 +25,7 @@ This project is designed for learning and portfolio purposes and demonstrates pr
 
 ---
 ## Project Structure
+
 ```
 Sales-Data-Analysis/
 │
@@ -35,8 +36,7 @@ Sales-Data-Analysis/
 │   └── Sales Analysis.pbix
 │
 └── README.md
-
-
+```
 
 ## 📂 Project Files Description
 
