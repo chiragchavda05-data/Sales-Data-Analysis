@@ -25,7 +25,7 @@ This project is designed for learning and portfolio purposes and demonstrates pr
 
 ---
 ## Project Structure
-Bash ```
+```
 Sales-Data-Analysis/
 │
 ├── data/
@@ -80,7 +80,7 @@ Sales-Data-Analysis/
 #### Option 2: Clone Using Git
 ```bash
 git clone https://github.com/your-username/Sales-Data-Analysis.git
-```
+
 ## ▶ Step 2: Open Dataset
 
 - Navigate to the `data` folder
