@@ -41,7 +41,7 @@ Sales-Data-Analysis/
 ## 📂 Project Files Description
 
 ### 📁 data/
-- **sales_data_200_rows.csv**  
+- **sales_data.csv**  
   Contains raw sales data including:
   - Product details
   - Sales amount
