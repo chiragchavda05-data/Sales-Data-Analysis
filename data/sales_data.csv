@@ -1,0 +1,201 @@
+Order ID,Order Date,Category,Product,Region,Sales Channel,Customer Type,Quantity Sold,Unit Price,Month,Total Sales
+ORD1000,2024-04-12,Books,Product D,West,Offline,New,2,216,April,432
+ORD1001,2024-12-14,Health,Product E,West,Offline,New,3,2938,December,8814
+ORD1002,2024-09-27,Home & Kitchen,Product B,West,Online,Returning,1,1250,September,1250
+ORD1003,2024-04-16,Home & Kitchen,Product B,North,Offline,New,5,2031,April,10155
+ORD1004,2024-03-12,Health,Product C,West,Online,New,1,1112,March,1112
+ORD1005,2024-07-07,Electronics,Product C,North,Online,New,8,1764,July,14112
+ORD1006,2024-01-21,Clothing,Product A,West,Online,New,1,1181,January,1181
+ORD1007,2024-04-12,Electronics,Product E,East,Online,Returning,1,4829,April,4829
+ORD1008,2024-05-01,Electronics,Product D,South,Online,Returning,2,612,May,1224
+ORD1009,2024-08-02,Electronics,Product B,North,Offline,Returning,2,2949,August,5898
+ORD1010,2024-11-26,Books,Product A,West,Online,Returning,6,659,November,3954
+ORD1011,2024-03-28,Home & Kitchen,Product A,East,Online,New,7,3772,March,26404
+ORD1012,2024-04-09,Electronics,Product B,South,Offline,Returning,5,4683,April,23415
+ORD1013,2024-12-25,Home & Kitchen,Product D,North,Online,New,1,3443,December,3443
+ORD1014,2024-05-31,Health,Product A,South,Offline,New,1,4170,May,4170
+ORD1015,2024-05-10,Clothing,Product A,East,Offline,New,3,4899,May,14697
+ORD1016,2024-05-29,Health,Product E,North,Offline,New,2,1570,May,3140
+ORD1017,2024-11-04,Health,Product D,South,Online,New,5,680,November,3400
+ORD1018,2024-09-14,Books,Product A,West,Online,Returning,6,2394,September,14364
+ORD1019,2024-12-09,Clothing,Product D,North,Online,Returning,7,3247,December,22729
+ORD1020,2024-10-20,Health,Product B,South,Offline,Returning,4,4349,October,17396
+ORD1021,2024-07-10,Health,Product C,East,Online,Returning,7,1779,July,12453
+ORD1022,2024-10-03,Clothing,Product A,East,Offline,New,8,3606,October,28848
+ORD1023,2024-06-09,Clothing,Product E,North,Online,Returning,1,2844,June,2844
+ORD1024,2024-11-09,Health,Product B,South,Offline,New,6,3456,November,20736
+ORD1025,2024-01-22,Clothing,Product D,North,Online,Returning,8,4145,January,33160
+ORD1026,2024-09-09,Health,Product B,North,Online,New,5,1343,September,6715
+ORD1027,2024-08-23,Health,Product A,South,Online,New,4,3218,August,12872
+ORD1028,2024-12-10,Books,Product D,South,Offline,Returning,2,2241,December,4482
+ORD1029,2024-02-18,Electronics,Product C,West,Offline,New,6,3159,February,18954
+ORD1030,2024-02-28,Health,Product B,South,Online,New,6,4648,February,27888
+ORD1031,2024-06-18,Home & Kitchen,Product A,East,Online,Returning,1,3059,June,3059
+ORD1032,2024-07-06,Electronics,Product E,North,Offline,New,9,2365,July,21285
+ORD1033,2024-09-27,Electronics,Product D,North,Offline,Returning,6,2579,September,15474
+ORD1034,2024-07-08,Electronics,Product B,East,Offline,Returning,3,4746,July,14238
+ORD1035,2024-06-23,Books,Product B,South,Online,Returning,4,1735,June,6940
+ORD1036,2024-02-20,Health,Product C,East,Offline,New,4,1857,February,7428
+ORD1037,2024-12-29,Books,Product C,East,Online,New,3,4552,December,13656
+ORD1038,2024-02-24,Health,Product E,West,Offline,New,3,2170,February,6510
+ORD1039,2024-08-31,Books,Product E,East,Online,Returning,3,2949,August,8847
+ORD1040,2024-11-15,Books,Product A,North,Offline,New,4,3351,November,13404
+ORD1041,2024-05-10,Home & Kitchen,Product A,East,Offline,Returning,7,3830,May,26810
+ORD1042,2024-11-02,Books,Product E,North,Offline,Returning,4,2589,November,10356
+ORD1043,2024-05-14,Clothing,Product E,North,Offline,New,9,1731,May,15579
+ORD1044,2024-01-21,Home & Kitchen,Product D,North,Offline,Returning,1,2916,January,2916
+ORD1045,2024-11-24,Books,Product C,South,Online,New,8,1115,November,8920
+ORD1046,2024-06-15,Electronics,Product A,West,Offline,New,7,1448,June,10136
+ORD1047,2024-09-30,Clothing,Product C,North,Offline,New,2,4711,September,9422
+ORD1048,2024-03-29,Clothing,Product C,North,Offline,New,8,3187,March,25496
+ORD1049,2024-11-11,Clothing,Product E,South,Online,New,1,2939,November,2939
+ORD1050,2024-01-14,Home & Kitchen,Product D,North,Offline,Returning,9,435,January,3915
+ORD1051,2024-08-29,Books,Product B,East,Online,Returning,9,4692,August,42228
+ORD1052,2024-09-21,Books,Product D,East,Offline,Returning,2,995,September,1990
+ORD1053,2024-12-11,Electronics,Product D,West,Offline,New,7,3646,December,25522
+ORD1054,2024-02-22,Electronics,Product C,North,Online,New,3,951,February,2853
+ORD1055,2024-12-05,Clothing,Product D,South,Offline,New,7,1787,December,12509
+ORD1056,2024-04-01,Electronics,Product A,East,Online,Returning,9,2031,April,18279
+ORD1057,2024-09-20,Home & Kitchen,Product C,South,Online,New,4,3846,September,15384
+ORD1058,2024-02-04,Books,Product A,South,Offline,Returning,1,2527,February,2527
+ORD1059,2024-07-24,Clothing,Product B,East,Online,Returning,2,1668,July,3336
+ORD1060,2024-03-21,Electronics,Product C,South,Offline,New,1,4100,March,4100
+ORD1061,2024-02-19,Home & Kitchen,Product B,East,Offline,New,5,2838,February,14190
+ORD1062,2024-12-25,Home & Kitchen,Product C,South,Online,Returning,5,3598,December,17990
+ORD1063,2024-01-02,Electronics,Product E,East,Online,New,7,4013,January,28091
+ORD1064,2024-02-23,Books,Product D,North,Online,Returning,9,1166,February,10494
+ORD1065,2024-04-15,Electronics,Product E,West,Online,New,9,4480,April,40320
+ORD1066,2024-09-16,Clothing,Product B,East,Offline,New,3,2544,September,7632
+ORD1067,2024-11-05,Electronics,Product D,East,Offline,Returning,3,4207,November,12621
+ORD1068,2024-07-09,Home & Kitchen,Product C,West,Online,New,3,3473,July,10419
+ORD1069,2024-08-05,Electronics,Product D,East,Offline,Returning,4,4069,August,16276
+ORD1070,2024-02-13,Books,Product A,East,Offline,New,8,2646,February,21168
+ORD1071,2024-06-10,Health,Product D,South,Offline,Returning,6,853,June,5118
+ORD1072,2024-07-20,Electronics,Product A,West,Offline,Returning,8,2182,July,17456
+ORD1073,2024-09-26,Books,Product D,North,Online,New,1,2874,September,2874
+ORD1074,2024-12-16,Books,Product A,East,Online,Returning,8,2996,December,23968
+ORD1075,2024-10-30,Home & Kitchen,Product B,West,Offline,New,4,4285,October,17140
+ORD1076,2024-09-27,Books,Product E,South,Online,New,1,875,September,875
+ORD1077,2024-08-02,Books,Product C,North,Online,New,8,1725,August,13800
+ORD1078,2024-09-08,Books,Product D,West,Online,Returning,4,3169,September,12676
+ORD1079,2024-07-08,Books,Product E,North,Offline,Returning,6,517,July,3102
+ORD1080,2024-10-22,Clothing,Product C,North,Offline,New,8,214,October,1712
+ORD1081,2024-07-31,Clothing,Product C,North,Offline,New,4,716,July,2864
+ORD1082,2024-07-26,Home & Kitchen,Product A,East,Online,Returning,3,4074,July,12222
+ORD1083,2024-08-24,Electronics,Product B,East,Offline,New,9,3367,August,30303
+ORD1084,2024-12-03,Books,Product B,South,Offline,New,3,925,December,2775
+ORD1085,2024-02-22,Electronics,Product E,South,Online,Returning,9,1616,February,14544
+ORD1086,2024-10-06,Electronics,Product B,West,Offline,New,2,3246,October,6492
+ORD1087,2024-08-04,Home & Kitchen,Product D,South,Offline,Returning,2,512,August,1024
+ORD1088,2024-09-08,Books,Product B,North,Online,New,2,828,September,1656
+ORD1089,2024-07-06,Books,Product E,North,Online,Returning,6,3448,July,20688
+ORD1090,2024-02-10,Health,Product B,East,Online,New,3,2908,February,8724
+ORD1091,2024-06-05,Electronics,Product D,North,Offline,New,9,775,June,6975
+ORD1092,2024-01-15,Electronics,Product A,West,Offline,Returning,4,3565,January,14260
+ORD1093,2024-10-27,Clothing,Product E,North,Offline,New,1,2604,October,2604
+ORD1094,2024-03-05,Health,Product A,North,Online,Returning,4,3067,March,12268
+ORD1095,2024-12-10,Clothing,Product A,West,Online,New,1,2886,December,2886
+ORD1096,2024-11-22,Clothing,Product A,South,Offline,Returning,5,1222,November,6110
+ORD1097,2024-01-09,Clothing,Product C,South,Offline,Returning,4,4179,January,16716
+ORD1098,2024-12-09,Home & Kitchen,Product C,West,Online,Returning,8,1671,December,13368
+ORD1099,2024-05-08,Home & Kitchen,Product A,East,Online,Returning,8,2243,May,17944
+ORD1100,2024-05-15,Clothing,Product E,North,Online,New,7,1787,May,12509
+ORD1101,2024-03-03,Health,Product D,West,Online,New,3,4232,March,12696
+ORD1102,2024-05-18,Electronics,Product D,North,Offline,Returning,1,3951,May,3951
+ORD1103,2024-03-21,Health,Product B,East,Online,Returning,1,3540,March,3540
+ORD1104,2024-06-11,Books,Product E,North,Offline,Returning,3,3866,June,11598
+ORD1105,2024-10-15,Home & Kitchen,Product C,West,Offline,New,6,2426,October,14556
+ORD1106,2024-09-17,Electronics,Product A,North,Offline,New,7,3014,September,21098
+ORD1107,2024-08-18,Electronics,Product B,South,Online,New,6,4052,August,24312
+ORD1108,2024-02-10,Books,Product D,East,Online,New,6,695,February,4170
+ORD1109,2024-01-28,Books,Product C,East,Online,Returning,6,828,January,4968
+ORD1110,2024-05-14,Clothing,Product C,East,Online,Returning,3,1465,May,4395
+ORD1111,2024-07-19,Home & Kitchen,Product A,West,Offline,Returning,6,4592,July,27552
+ORD1112,2024-11-23,Home & Kitchen,Product D,East,Online,New,8,798,November,6384
+ORD1113,2024-09-24,Health,Product E,South,Online,New,2,495,September,990
+ORD1114,2024-02-02,Clothing,Product C,West,Offline,New,5,4271,February,21355
+ORD1115,2024-02-17,Clothing,Product A,South,Online,Returning,1,4460,February,4460
+ORD1116,2024-03-02,Clothing,Product E,North,Offline,Returning,1,2602,March,2602
+ORD1117,2024-08-03,Clothing,Product D,North,Offline,New,5,1919,August,9595
+ORD1118,2024-10-19,Home & Kitchen,Product C,North,Offline,Returning,3,817,October,2451
+ORD1119,2024-04-08,Home & Kitchen,Product E,North,Offline,New,4,2882,April,11528
+ORD1120,2024-06-20,Clothing,Product E,South,Offline,New,3,3677,June,11031
+ORD1121,2024-12-25,Health,Product E,West,Offline,Returning,1,243,December,243
+ORD1122,2024-08-01,Electronics,Product C,West,Offline,New,1,3240,August,3240
+ORD1123,2024-02-04,Electronics,Product C,East,Offline,Returning,5,4591,February,22955
+ORD1124,2024-08-14,Health,Product B,South,Online,New,6,3038,August,18228
+ORD1125,2024-04-10,Clothing,Product D,North,Online,Returning,3,3736,April,11208
+ORD1126,2024-05-10,Home & Kitchen,Product A,South,Online,Returning,9,3322,May,29898
+ORD1127,2024-09-13,Electronics,Product E,East,Online,Returning,5,1267,September,6335
+ORD1128,2024-01-05,Books,Product B,East,Offline,New,8,2716,January,21728
+ORD1129,2024-08-05,Books,Product A,South,Online,New,1,1162,August,1162
+ORD1130,2024-09-11,Health,Product B,South,Offline,Returning,5,2256,September,11280
+ORD1131,2024-12-24,Clothing,Product C,South,Online,Returning,3,3082,December,9246
+ORD1132,2024-10-09,Electronics,Product E,West,Online,New,1,3394,October,3394
+ORD1133,2024-07-25,Clothing,Product A,North,Online,New,4,4829,July,19316
+ORD1134,2024-01-15,Electronics,Product A,South,Offline,New,5,1256,January,6280
+ORD1135,2024-12-11,Health,Product A,South,Online,Returning,7,832,December,5824
+ORD1136,2024-02-11,Health,Product A,South,Offline,New,1,4430,February,4430
+ORD1137,2024-06-27,Books,Product A,East,Offline,New,3,4946,June,14838
+ORD1138,2024-03-03,Clothing,Product B,East,Online,Returning,2,1053,March,2106
+ORD1139,2024-12-17,Books,Product E,West,Online,New,9,2639,December,23751
+ORD1140,2024-08-18,Clothing,Product C,North,Online,New,6,3424,August,20544
+ORD1141,2024-08-28,Books,Product C,West,Offline,New,3,3401,August,10203
+ORD1142,2024-02-21,Home & Kitchen,Product C,North,Online,Returning,8,1642,February,13136
+ORD1143,2024-04-05,Home & Kitchen,Product C,East,Offline,Returning,8,1291,April,10328
+ORD1144,2024-08-09,Home & Kitchen,Product B,East,Offline,Returning,2,3093,August,6186
+ORD1145,2024-08-18,Home & Kitchen,Product D,East,Online,Returning,6,2781,August,16686
+ORD1146,2024-08-24,Electronics,Product E,West,Online,Returning,7,1317,August,9219
+ORD1147,2024-05-22,Home & Kitchen,Product A,South,Offline,Returning,2,1640,May,3280
+ORD1148,2024-06-19,Health,Product D,South,Offline,Returning,2,3336,June,6672
+ORD1149,2024-01-29,Health,Product C,East,Offline,New,1,2486,January,2486
+ORD1150,2024-02-05,Electronics,Product D,South,Online,New,8,3819,February,30552
+ORD1151,2024-01-13,Home & Kitchen,Product E,South,Offline,Returning,1,1488,January,1488
+ORD1152,2024-06-08,Home & Kitchen,Product A,West,Online,New,9,1956,June,17604
+ORD1153,2024-11-22,Home & Kitchen,Product A,North,Offline,New,6,1465,November,8790
+ORD1154,2024-07-05,Books,Product E,East,Offline,Returning,7,599,July,4193
+ORD1155,2024-08-30,Clothing,Product E,East,Online,New,7,1780,August,12460
+ORD1156,2024-03-26,Books,Product C,West,Offline,New,3,610,March,1830
+ORD1157,2024-10-10,Clothing,Product A,West,Online,New,2,4412,October,8824
+ORD1158,2024-03-06,Home & Kitchen,Product D,South,Online,New,9,1424,March,12816
+ORD1159,2024-06-18,Home & Kitchen,Product B,East,Offline,New,8,1255,June,10040
+ORD1160,2024-02-14,Books,Product B,North,Online,Returning,7,1927,February,13489
+ORD1161,2024-03-02,Books,Product E,West,Online,Returning,9,3241,March,29169
+ORD1162,2024-05-13,Clothing,Product C,North,Offline,Returning,4,3586,May,14344
+ORD1163,2024-10-10,Health,Product B,North,Online,New,4,1910,October,7640
+ORD1164,2024-01-28,Clothing,Product A,East,Online,Returning,1,3023,January,3023
+ORD1165,2024-04-17,Books,Product E,East,Online,New,8,2314,April,18512
+ORD1166,2024-02-13,Books,Product D,West,Offline,New,3,4286,February,12858
+ORD1167,2024-12-05,Electronics,Product E,East,Online,New,7,813,December,5691
+ORD1168,2024-10-12,Books,Product D,East,Offline,New,2,3702,October,7404
+ORD1169,2024-11-26,Electronics,Product E,East,Offline,Returning,2,4234,November,8468
+ORD1170,2024-05-07,Health,Product E,North,Online,Returning,7,3622,May,25354
+ORD1171,2024-12-13,Clothing,Product E,West,Online,New,6,4368,December,26208
+ORD1172,2024-08-18,Clothing,Product D,South,Online,Returning,3,4848,August,14544
+ORD1173,2024-07-08,Electronics,Product D,North,Offline,New,9,4949,July,44541
+ORD1174,2024-08-12,Clothing,Product E,East,Online,Returning,6,1343,August,8058
+ORD1175,2024-10-09,Books,Product B,North,Online,Returning,6,3809,October,22854
+ORD1176,2024-04-30,Home & Kitchen,Product C,East,Online,New,1,1181,April,1181
+ORD1177,2024-04-25,Electronics,Product C,East,Online,Returning,4,555,April,2220
+ORD1178,2024-08-20,Clothing,Product C,North,Online,New,6,994,August,5964
+ORD1179,2024-09-15,Electronics,Product D,West,Offline,Returning,6,1484,September,8904
+ORD1180,2024-12-24,Electronics,Product D,East,Offline,New,5,2058,December,10290
+ORD1181,2024-07-16,Home & Kitchen,Product B,West,Online,New,1,3172,July,3172
+ORD1182,2024-05-16,Books,Product C,South,Online,Returning,8,2096,May,16768
+ORD1183,2024-11-13,Electronics,Product C,East,Online,Returning,5,4385,November,21925
+ORD1184,2024-06-13,Clothing,Product E,West,Online,New,5,604,June,3020
+ORD1185,2024-08-12,Health,Product D,West,Offline,Returning,7,1314,August,9198
+ORD1186,2024-11-02,Electronics,Product C,South,Online,Returning,4,1631,November,6524
+ORD1187,2024-08-21,Electronics,Product B,West,Offline,New,6,3540,August,21240
+ORD1188,2024-06-20,Home & Kitchen,Product B,West,Offline,New,4,923,June,3692
+ORD1189,2024-05-31,Books,Product C,South,Online,Returning,3,1028,May,3084
+ORD1190,2024-11-10,Health,Product D,East,Offline,New,7,233,November,1631
+ORD1191,2024-06-08,Clothing,Product B,West,Offline,New,8,2205,June,17640
+ORD1192,2024-04-05,Health,Product E,West,Offline,New,4,3727,April,14908
+ORD1193,2024-08-20,Clothing,Product B,West,Offline,Returning,2,4880,August,9760
+ORD1194,2024-06-28,Books,Product A,North,Online,Returning,3,1952,June,5856
+ORD1195,2024-04-22,Clothing,Product A,South,Online,New,1,4275,April,4275
+ORD1196,2024-11-13,Home & Kitchen,Product D,North,Offline,Returning,8,3033,November,24264
+ORD1197,2024-02-21,Home & Kitchen,Product C,South,Online,New,3,3384,February,10152
+ORD1198,2024-09-24,Home & Kitchen,Product D,East,Online,Returning,7,4398,September,30786
+ORD1199,2024-10-21,Home & Kitchen,Product D,East,Online,New,5,2911,October,14555
